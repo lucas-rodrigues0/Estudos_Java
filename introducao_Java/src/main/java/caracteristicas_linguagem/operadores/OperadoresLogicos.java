@@ -4,8 +4,7 @@ public class OperadoresLogicos {
     /*
     Os Operdaores lógicos são utilizados para realização de condicionais.
 
-    A palavra reservada 'if' e 'else' serão utilizadas para estbelecer essas condicionais, que devem sempre retornar um
-    valor booleano para assim executar (true) ou não (false) o que estiver no escopo da condicional.
+    mais detalhes no pacote de lacos_repeticao há uma parte sobre condicionais.
      */
 
     public static void main(String[] args) {
