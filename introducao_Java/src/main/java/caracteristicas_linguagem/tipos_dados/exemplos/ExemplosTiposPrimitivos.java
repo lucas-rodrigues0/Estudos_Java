@@ -1,4 +1,6 @@
-package caracteristicas_linguagem.tipos_dados;
+package caracteristicas_linguagem.tipos_dados.exemplos;
+
+import caracteristicas_linguagem.tipos_dados.TiposPrimitivos;
 
 public class ExemplosTiposPrimitivos {
     public static void main(String[] args) {
